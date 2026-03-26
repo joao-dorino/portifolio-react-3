@@ -2,7 +2,7 @@ import NavBar from "../../components/NavBar/NavBar"
 import Hero from "./sections/Hero/Hero";
 import Blog from "./sections/Blog/Blog";
 import Projects from "./sections/Projects/Projects";
-import Footer from "./sections/Footer/Footer";
+import Footer from "./sections/Foooter/Footer";
 
 
 function Home() {
